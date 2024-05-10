@@ -1,0 +1,153 @@
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+#
+# Aerowolf <aerowolf@tom.com>, 2024.
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2020-10-10 16:27+0200\n"
+"PO-Revision-Date: 2024-05-10 14:24+0800\n"
+"Last-Translator: Aerowolf <aerowolf@tom.com>\n"
+"Language-Team: 简体中文\n"
+"Language: zh_CN\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: Lokalize 21.12.3\n"
+
+#: ../src/Plugin.cpp:78
+msgid "Contributors:"
+msgstr "贡献者："
+
+#: ../src/Plugin.cpp:89
+msgid "A modern, minimalist taskbar for XFCE."
+msgstr "XFCE桌面环境上一款现代、简约的任务栏。"
+
+#: ../src/Wnck.cpp:185
+msgid "Launch another"
+msgstr "启动另一个"
+
+#: ../src/Wnck.cpp:185
+msgid "Launch"
+msgstr "启动"
+
+#: ../src/Wnck.cpp:200
+msgid "Unpin"
+msgstr "取消固定"
+
+#: ../src/Wnck.cpp:200
+msgid "Pin"
+msgstr "固定"
+
+#: ../src/Wnck.cpp:223
+msgid "Close All"
+msgstr "全部关闭"
+
+#: ../src/SettingsDialog.cpp:21
+#, c-format
+msgid "<b>Only the first %u hotkeys(s) are enabled.</b>\n"
+msgstr "<b>仅第一个 %u 快捷键可用。</b>\n"
+
+#: ../src/SettingsDialog.cpp:25
+#, c-format
+msgid ""
+"The &lt;SUPER&gt;+%u combination seems already in use by another process.\n"
+"Check your Xfce settings."
+msgstr ""
+"&lt;SUPER&gt;+%u 组合已经被用于其他进程。\n"
+"请检查Xfce设置。"
+
+#. namespace SettingsDialog
+#: ../src/docklike.desktop.in.h:1
+msgid "A modern, minimalist taskbar for XFCE"
+msgstr "XFCE桌面环境上一款现代、简约的任务栏。"
+
+#: ../src/_dialogs.xml.h:1
+msgid "_Close"
+msgstr "关闭（_C）"
+
+#: ../src/_dialogs.xml.h:2
+msgid "Behavior"
+msgstr "行为"
+
+#: ../src/_dialogs.xml.h:3
+msgid "Don't show list for a single window"
+msgstr "仅有一个窗口时不显示列表"
+
+#: ../src/_dialogs.xml.h:4
+msgid "Show only applications from the current workspace"
+msgstr "仅显示当前工作区中的应用程序"
+
+#: ../src/_dialogs.xml.h:5
+msgid "Show only applications from the current display"
+msgstr "仅显示正在显示的应用程序"
+
+#: ../src/_dialogs.xml.h:6
+msgid "Appearance"
+msgstr "外观"
+
+#: ../src/_dialogs.xml.h:7
+msgid "Indicator style :"
+msgstr "指示器样式："
+
+#: ../src/_dialogs.xml.h:8
+msgid "Bars"
+msgstr "条形"
+
+#: ../src/_dialogs.xml.h:9
+msgid "Dots"
+msgstr "点状"
+
+#: ../src/_dialogs.xml.h:10
+msgid "Rectangles"
+msgstr "矩形"
+
+#: ../src/_dialogs.xml.h:11
+msgid "Indicator orientation :"
+msgstr "指示器方向："
+
+#: ../src/_dialogs.xml.h:12
+msgid "Bottom"
+msgstr "底部"
+
+#: ../src/_dialogs.xml.h:13
+msgid "Right"
+msgstr "右侧"
+
+#: ../src/_dialogs.xml.h:14
+msgid "Top"
+msgstr "顶部"
+
+#: ../src/_dialogs.xml.h:15
+msgid "Left"
+msgstr "左侧"
+
+#: ../src/_dialogs.xml.h:16
+msgid "Indicator color :"
+msgstr "指示器颜色："
+
+#: ../src/_dialogs.xml.h:17
+msgid "Force icons size :"
+msgstr "强制字体大小："
+
+#: ../src/_dialogs.xml.h:18
+msgid "Keyboard hotkeys"
+msgstr "键盘快捷键："
+
+#: ../src/_dialogs.xml.h:19
+msgid "Switch between applications with <SUPER>+[1, 2, ...]"
+msgstr "使用 <SUPER>+[1, 2, ...] 键在应用程序之间切换"
+
+#: ../src/_dialogs.xml.h:20
+msgid "Switch to the last window with <SUPER>"
+msgstr "使用 <SUPER> 键切换到上一个应用程序"
+
+#: ../src/_dialogs.xml.h:21
+msgid ""
+"<b>This feature is disabled.</b>\n"
+"It requires X11 XInput2.0 extension which is is not provided by your system."
+msgstr ""
+"<b>此功能不可用</b> \n"
+"该功能需要扩展 X11 XInput2.0 ，而当前系统不提供。"
